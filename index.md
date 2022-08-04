@@ -5,9 +5,9 @@ Hi, my name is Jack, and this project is a Third Eye for the Blind. This is an a
 |:--:|:--:|:--:|:--:|
 | Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior | 
 
-![Relevant Name](file:///Users/jacktaylor/Downloads/CamScanner220803112427854/CamScanner%2008-03-2022%2011.23n_2.jpg)
+![Relevant Name](file:///Users/jacktaylor/Downloads/IMG_2497.jpg)
 
-![PIC1](file:///Users/jacktaylor/Downloads/CamScanner220803112427854/CamScanner%2008-03-2022%2011.23n_2.jpg)
+![PIC1](file:///Users/jacktaylor/Downloads/IMG_2496.jpg)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
