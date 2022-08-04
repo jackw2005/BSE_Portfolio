@@ -5,7 +5,7 @@ Hi, my name is Jack, and this project is a Third Eye for the Blind. This is an a
 |:--:|:--:|:--:|:--:|
 | Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior | 
 
-![Relevant Name](file:///Users/jacktaylor/Downloads/IMG_2497.jpg)
+![Relevant Name](https://github.com/jackw2005/BSE_Portfolio/blob/gh-pages/IMG_2496.jpg)
 
 ![PIC1](file:///Users/jacktaylor/Downloads/IMG_2496.jpg)
   
