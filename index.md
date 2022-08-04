@@ -4,20 +4,20 @@ Hi, my name is Jack, and this project is a Third Eye for the Blind. This is an a
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior | 
+  
+# Final Milestone
+My final milestone was to make everything I had built so far into a wearable device. For this, I needed to find something I could affix my tech to that was comfortable and practical. I first tested old fingerless biking gloves, but they were not long enough to include the battery pack, making it bulky. I then modified an elbow sleeve to fit around my hand and wrist, which worked very well. All I had to do after that was glue the battery pack, perfboard, and sensor to the sleeve. To protect my hand from the spiky underside of the perfboard, I glued foam between the board and the glove, also providing stability. For the sensor, I did a similar thing, except I used cardboard. I also had to be precise with my placement, so that I could get wrist mobility without the board and battery pack hitting each other. I then cut the top of the elbow sleeve so that you could rest your fingers without disrupting the sensor, and glued everything on. After a few tweaks, this project was finally done.
 
 ![Front Hand](https://github.com/jackw2005/BSE_Portfolio/blob/gh-pages/IMG_2496%20(1).jpg)
 
 ![Back Hand](https://github.com/jackw2005/BSE_Portfolio/blob/gh-pages/IMG_2497%20(1).jpg)
-  
-# Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
 [![Raspberry Pi Camera](https://res.cloudinary.com/marcomontalbano/image/upload/v1622153797/video_to_markdown/images/youtube--zfBHD4v8hD0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zfBHD4v8hD0 "Raspberry Pi Camera"){:target="_blank" rel="noopener"}
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My second milestone was getting all of the components into on compact module. I did this by using a perfboard, which I placed all of my 
+My second milestone was getting all of the components into on compact module. I did this by using a perfboard, which I placed all of my electronics on. I had to do some planning (final drawings shown below) to make the wiring simple, so there was as little interference as possible. This meant using resistors to go around some of the wiring in order to get all of the components connected. After planning came sautering, which went very well. I also had to find a different power source, as before I had just powered the arduino with the computer, so I used a battery pack that fits 4 AA batteries. Though bulky, the batteries would last a long time, longer than a 9v, which was another option I had in mind. After sautering the battery pack in, my second milestone was done.
 
 ![Drawing Pic 1](https://github.com/jackw2005/BSE_Portfolio/blob/main/CamScanner%2008-03-2022%2011.23n_1.jpg)
 
