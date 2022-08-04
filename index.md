@@ -19,7 +19,11 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 My second milestone was getting all of the components into on compact module. I did this by using a perfboard, which I placed all of my 
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+![Drawing Pic 1](https://github.com/jackw2005/BSE_Portfolio/blob/gh-pages/CamScanner%2008-03-2022%2011.23n_1.jpg)
+
+![Drawing Pic 2](https://github.com/jackw2005/BSE_Portfolio/blob/gh-pages/CamScanner%2008-03-2022%2011.23n_2.jpg)
+
+[![Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
 
