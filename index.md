@@ -34,10 +34,10 @@ My first milestone was setting up all of the wiring and components through a bre
 [![First Milestone][![Jack T Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659117732/video_to_markdown/images/youtube--ooDURXiPNns-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ooDURXiPNns "Jack T Milestone 1")
 
 # Bill of Materials
-| **Item** | **QTY** | **Price** | **Link** |
+| **Item** | **QTY** | **Price(USD)** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior | 
-|:--:|:--:|:--:|:--:|
-| Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior |
-|:--:|:--:|:--:|:--:|
-| Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior | 
+| Arduino Micro | 1 | $24.90 | https://store-usa.arduino.cc/collections/boards/products/arduino-micro | 
+| Vibrating Motor | 1 | Mechanical/Aerospace Engineering | Rising Senior |
+| Red LED | 1 | Mechanical/Aerospace Engineering | Rising Senior | 
+| Buzzer | 1 | Mechanical/Aerospace Engineering | Rising Senior | 
+| MtF Jumper Cables | 4 | $2.99 | https://www.bananarobotics.com/shop/Male-to-Female-Jumper-Wire-(25-pack)?gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfgky23jCY39HCvjmSfB0QbPCW7cRL8UeMi1UGoXIlhjdBvOkTs-7tkaAkioEALw_wcB | 
