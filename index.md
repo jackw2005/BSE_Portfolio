@@ -32,3 +32,12 @@ My first milestone was setting up all of the wiring and components through a bre
 ![BreadBoard](https://github.com/jackw2005/BSE_Portfolio/blob/gh-pages/IMG_2482.jpg){:target="_blank" rel="noopener"}
 
 [![First Milestone][![Jack T Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659117732/video_to_markdown/images/youtube--ooDURXiPNns-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ooDURXiPNns "Jack T Milestone 1")
+
+# Bill of Materials
+| **Item** | **QTY** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior | 
+|:--:|:--:|:--:|:--:|
+| Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior |
+|:--:|:--:|:--:|:--:|
+| Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior | 
