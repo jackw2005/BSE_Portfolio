@@ -12,10 +12,6 @@ My final milestone was to make everything I had built so far into a wearable dev
 
 ![Back Hand](https://github.com/jackw2005/BSE_Portfolio/blob/gh-pages/IMG_2497%20(1).jpg)
 
-[![Raspberry Pi Camera](https://res.cloudinary.com/marcomontalbano/image/upload/v1622153797/video_to_markdown/images/youtube--zfBHD4v8hD0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zfBHD4v8hD0 "Raspberry Pi Camera"){:target="_blank" rel="noopener"}
-
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
-
 # Second Milestone
 My second milestone was getting all of the components into on compact module. I did this by using a perfboard, which I placed all of my electronics on. I had to do some planning (final drawings shown below) to make the wiring simple, so there was as little interference as possible. This meant using resistors to go around some of the wiring in order to get all of the components connected. After planning came soldering, which went very well. I also had to find a different power source, as before I had just powered the arduino with the computer, so I used a battery pack that fits 4 AA batteries. Though bulky, the batteries would last a long time, longer than a 9v, which was another option I had in mind. After sautering the battery pack in, my second milestone was done.
 
