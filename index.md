@@ -45,3 +45,8 @@ My first milestone was setting up all of the wiring and components through a bre
 | Battery Pack | 1 | $3.50/pack | https://www.amazon.com/Ogrmar-Switch-Battery-Holder-Leads/dp/B075G8XZLM/ref=asc_df_B075G8XZLM/?tag=hyprod-20&linkCode=df0&hvadid=216591984952&hvpos=&hvnetw=g&hvrand=7600265941785384865&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032091&hvtargid=pla-365582522605&psc=1 | 
 | Bakelite Perfboard Plate | 1 | $4.95 | https://www.digikey.com/en/products/detail/adafruit-industries-llc/2670/7244957?utm_adgroup=Prototype%20Boards%20Perforated&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Prototyping%2C%20Fabrication%20Products_NEW&utm_term=&utm_content=Prototype%20Boards%20Perforated&gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfj1F5X78E9N4HLAroi0s5I7koryw1ZkOzpzPe2YCwYliLEbqPc_AUMaAkx4EALw_wcB | 
 | Triple Dip Switch | 1 | $0.57 | https://www.digikey.com/en/products/detail/cui-devices/DS01C-254-S-03BE/11310944?utm_adgroup=DIP%20Switches&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Switches_NEW&utm_term=&utm_content=DIP%20Switches&gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfjImhGRnxkbUENQjqRWx6HTvyMuroxYyzN0JcP3qRnefHb15XdMObwaAuY_EALw_wcB | 
+| Four Pin Ultrasonic Sensor | 1 | $23.80 | https://www.digikey.com/en/products/detail/osepp-electronics-ltd/HC-SR04/11198533?utm_adgroup=Development%20Boards%2C%20Kits%2C%20Programmers&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_DK%2BSupplier_Osepp%20Electronics&utm_term=&utm_content=Development%20Boards%2C%20Kits%2C%20Programmers&gclid=Cj0KCQjwrs2XBhDjARIsAHVymmRofPGOTf0U5uuFIYKk2FWoiqg2vcpw6fUge3RBC7jQz2-QZurqRw8aAuVqEALw_wcB |
+
+# Schematics
+This project uses an Arduino Micro and a four pin Ultrasonic Sensor
+
