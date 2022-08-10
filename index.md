@@ -34,7 +34,7 @@ My first milestone was setting up all of the wiring and components through a bre
 
 # Bill of Materials
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Part** | **AMT** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Micro | 1 | $24.90 | https://store-usa.arduino.cc/collections/boards/products/arduino-micro | 
 |:--:|:--:|:--:|:--:|
@@ -79,15 +79,16 @@ This project uses an Arduino Micro and a four pin Ultrasonic Sensor. A drawing o
 ![Sensor](https://www.theengineeringprojects.com/2018/10/introduction-to-hc-sr04-ultrasonic-sensor.html)
 
 # Code
-const int pingTrigPin = 12; //Trigger connected to PIN 7   
-  const int pingEchoPin = 10; //Echo connected yo PIN 8   
-  int buz=5; //Buzzer to PIN 4   
-  void setup() {   
+const int pingTrigPin = 12; 
+const int pingEchoPin = 10; 
+int buz=5; 
+
+void setup() {   
   Serial.begin(9600);   
   pinMode(buz, OUTPUT);   
-  }   
-  void loop()   
-  {   
+}   
+
+void loop()  {   
   long duration, cm;   
   pinMode(pingTrigPin, OUTPUT);   
   digitalWrite(pingTrigPin, LOW);   
@@ -98,20 +99,20 @@ const int pingTrigPin = 12; //Trigger connected to PIN 7
   pinMode(pingEchoPin, INPUT);   
   duration = pulseIn(pingEchoPin, HIGH);   
   cm = microsecondsToCentimeters(duration);   
-  if(cm<=50 && cm>0)   
-  {   
-  int d= map(cm, 1, 100, 20, 2000);   
-  digitalWrite(buz, HIGH);   
-  delay(100);   
-  digitalWrite(buz, LOW);   
-  delay(d);  
+ 
+  if(cm<=50 && cm>0)  {   
+    int d= map(cm, 1, 100, 20, 2000);   
+    digitalWrite(buz, HIGH);   
+    delay(100);   
+    digitalWrite(buz, LOW);   
+    delay(d);  
   }   
   Serial.print(cm);    
   Serial.print("cm");   
   Serial.println();   
   delay(100);   
   }   
-  long microsecondsToCentimeters(long microseconds)   
-  {   
+  
+long microsecondsToCentimeters(long microseconds)  { 
   return microseconds / 29 / 2;   
-  } 
+} 
