@@ -79,8 +79,8 @@ This project uses an Arduino Micro and a four pin Ultrasonic Sensor. A drawing o
 
 - Positive Battery Wire ---> VIN Pin
 
-![Arduino](https://www.javatpoint.com/arduino-micro-pinout)
-![Sensor](https://www.theengineeringprojects.com/2018/10/introduction-to-hc-sr04-ultrasonic-sensor.html)
+![Arduino](https://static.javatpoint.com/tutorial/arduino/images/arduino-micro-pinout.png)
+![Sensor](https://www.theengineeringprojects.com/wp-content/webp/2018/10/Introduction-to-HC-SR04.jpg.webp?ssl=1)
 
 # Code
 const int pingTrigPin = 12; 
