@@ -8,9 +8,9 @@ Hi, my name is Jack, and this project is a Third Eye for the Blind. This is an a
 # My Final Project
 Here is two pictures of my final project, including the modifications. Below this I describe the steps I took to completing this project and the components that meake up this project. 
 
-![Front Hand 1]
+![Front Hand 1](IMG_2503.jpg)
 
-![Front Hand 2]
+![Front Hand 2](IMG_2504.jpg)
 
 # Modifications
 I made a few modifications after finishing this project, mostly related to making some casing for the electronics so they were less likely to be broken if they were hit. I first made casing out of cardboard, but then opted to build a new design out of legos for more durability. After some serious planning, I finished the casing for the perfboard and the sensor, and although it is a bit bulky, it serves its purpose as a good case. 
