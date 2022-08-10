@@ -31,7 +31,8 @@ My first milestone was setting up all of the wiring and components through a bre
 [![First Milestone][![Jack T Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1659117732/video_to_markdown/images/youtube--ooDURXiPNns-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ooDURXiPNns "Jack T Milestone 1")
 
 # Bill of Materials
-| **Item** | **QTY** | **Price(USD)** | **Link** |
+
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Arduino Micro | 1 | $24.90 | https://store-usa.arduino.cc/collections/boards/products/arduino-micro | 
 |:--:|:--:|:--:|:--:|
@@ -56,12 +57,19 @@ My first milestone was setting up all of the wiring and components through a bre
 # Schematics
 This project uses an Arduino Micro and a four pin Ultrasonic Sensor. A drawing of this wiring is linked under the Second Milestone.
 VCC Pin (Sensor) ---> 5v Pin 
+
 Echo Pin (Sensor) ---> Pin 10
+
 Trig Pin (Sensor) ---> Pin 12
+
 GND Pin (Sensor) ---> GND Pin
+
 All Negative Paths from Components ---> GND Pin
+
 Positive Paths from components (Through Switch) ---> Pin 5
+
 Negative Battery Wire ---> GND Pin
+
 Positive Battery Wire ---> VIN Pin
 
 ![Arduino](https://www.javatpoint.com/arduino-micro-pinout)
