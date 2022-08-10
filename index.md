@@ -8,12 +8,16 @@ Hi, my name is Jack, and this project is a Third Eye for the Blind. This is an a
 # Modifications
 I made a few modifications after finishing this project, mostly related to making some casing for the electronics so they were less likely to be broken if they were hit. I first made casing out of cardboard, but then opted to build a new design out of legos for more durability. After some serious planning, I finished the casing for the perfboard and the sensor, and although it is a bit bulky, it serves its purpose as a good case. 
 
+[![Modifications]
+
 # Final Milestone
 My final milestone was to make everything I had built so far into a wearable device. For this, I needed to find something I could affix my tech to that was comfortable and practical. I first tested old fingerless biking gloves, but they were not long enough to include the battery pack, making the module bulky. I then modified an elbow sleeve to fit around my hand and wrist, which worked very well. All I had to do after that was glue the battery pack, perfboard, and sensor to the sleeve. To protect my hand from the spiky underside of the perfboard, I glued foam between the board and the glove, also providing stability. For the sensor, I did a similar thing, except I used cardboard. I also had to be precise with my placement, so that I could get wrist mobility without the board and battery pack hitting each other. I then cut the top of the elbow sleeve so that you could rest your fingers without disrupting the sensor, and glued everything on. After a few tweaks, this project was finally done.
 
 ![Front Hand](IMG_2496 (1).jpg)
 
 ![Back Hand](IMG_2497 (1).jpg)
+
+[![Final Milestone]
 
 # Second Milestone
 My second milestone was getting all of the components into on compact module. I did this by using a perfboard, on which I placed all of my electronics. I had to do some planning (final drawings shown below) to make the wiring simple, so there was as little interference as possible. This meant using resistors to go around some of the wiring to get all of the components connected. After planning came soldering, which went very well. I also had to find a different power source, as before I had just powered the Arduino with the computer, so I used a battery pack that fits 4 AA batteries. Though bulky, the batteries would last a long time, longer than a 9v, which was another option I had in mind. After soldering the battery pack in, my second milestone was done.
@@ -113,6 +117,6 @@ void loop()  {
   delay(100);   
   }   
   
-long microsecondsToCentimeters(long microseconds)  { 
-  return microseconds / 29 / 2;   
+long microsecondsToCentimeters(long microseconds) { 
+return microseconds / 29 / 2;   
 } 
