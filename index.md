@@ -56,24 +56,59 @@ My first milestone was setting up all of the wiring and components through a bre
 
 # Schematics
 This project uses an Arduino Micro and a four pin Ultrasonic Sensor. A drawing of this wiring is linked under the Second Milestone.
-VCC Pin (Sensor) ---> 5v Pin 
+- VCC Pin (Sensor) ---> 5v Pin 
 
-Echo Pin (Sensor) ---> Pin 10
+- Echo Pin (Sensor) ---> Pin 10
 
-Trig Pin (Sensor) ---> Pin 12
+- Trig Pin (Sensor) ---> Pin 12
 
-GND Pin (Sensor) ---> GND Pin
+- GND Pin (Sensor) ---> GND Pin
 
-All Negative Paths from Components ---> GND Pin
+- All Negative Paths from Components ---> GND Pin
 
-Positive Paths from components (Through Switch) ---> Pin 5
+- Positive Paths from components (Through Switch) ---> Pin 5
 
-Negative Battery Wire ---> GND Pin
+- Negative Battery Wire ---> GND Pin
 
-Positive Battery Wire ---> VIN Pin
+- Positive Battery Wire ---> VIN Pin
 
 ![Arduino](https://www.javatpoint.com/arduino-micro-pinout)
 ![Sensor](https://www.theengineeringprojects.com/2018/10/introduction-to-hc-sr04-ultrasonic-sensor.html)
 
 # Code
-
+const int pingTrigPin = 12; //Trigger connected to PIN 7   
+  const int pingEchoPin = 10; //Echo connected yo PIN 8   
+  int buz=5; //Buzzer to PIN 4   
+  void setup() {   
+  Serial.begin(9600);   
+  pinMode(buz, OUTPUT);   
+  }   
+  void loop()   
+  {   
+  long duration, cm;   
+  pinMode(pingTrigPin, OUTPUT);   
+  digitalWrite(pingTrigPin, LOW);   
+  delayMicroseconds(2);   
+  digitalWrite(pingTrigPin, HIGH);   
+  delayMicroseconds(5);   
+  digitalWrite(pingTrigPin, LOW);   
+  pinMode(pingEchoPin, INPUT);   
+  duration = pulseIn(pingEchoPin, HIGH);   
+  cm = microsecondsToCentimeters(duration);   
+  if(cm<=50 && cm>0)   
+  {   
+  int d= map(cm, 1, 100, 20, 2000);   
+  digitalWrite(buz, HIGH);   
+  delay(100);   
+  digitalWrite(buz, LOW);   
+  delay(d);  
+  }   
+  Serial.print(cm);    
+  Serial.print("cm");   
+  Serial.println();   
+  delay(100);   
+  }   
+  long microsecondsToCentimeters(long microseconds)   
+  {   
+  return microseconds / 29 / 2;   
+  } 
