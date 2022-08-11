@@ -91,7 +91,7 @@ This project uses an Arduino Micro and a four pin Ultrasonic Sensor. A drawing o
 
 - Positive Battery Wire ---> VIN Pin
 
-![Diagram](Untitled drawing (1).jpg)
+![Diagram](Untitled drawing (3).jpg)
 
 # Code
 const int pingTrigPin = 12; 
