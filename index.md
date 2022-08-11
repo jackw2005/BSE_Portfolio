@@ -5,6 +5,8 @@ Hi, my name is Jack, and this project is a Third Eye for the Blind. This is an a
 |:--:|:--:|:--:|:--:|
 | Jack | Redwood High School | Mechanical/Aerospace Engineering | Rising Senior | 
     
+![Selfie](IMG_2513.jpg)
+
 # My Final Project
 Here is two pictures of my final project, including the modifications. Below this I describe the steps I took to completing this project and the components that meake up this project. 
 
