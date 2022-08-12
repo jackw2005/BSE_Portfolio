@@ -50,6 +50,7 @@ My first milestone was setting up all of the wiring and components through a bre
 
 # Bill of Materials
 Soldering Iron + Solder
+
 Hot glue gun
 
 | **Part+Link** | **AMT** | **Price** |
