@@ -39,6 +39,7 @@ My second milestone was getting all of the components into on compact module. I 
 
 [![Second Milestone][![Jack T Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1659634159/video_to_markdown/images/youtube--KWKasNXUKhc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KWKasNXUKhc "Jack T Milestone 2")
 {:target="_blank" rel="noopener"}
+
 # First Milestone
   
 My first milestone was setting up all of the wiring and components through a breadboard and coding to make sure the components worked together. First I had to do a couple of tests to make sure all of the components worked before putting them all together. I ran the LED, vibrating motor, and buzzer through a circuit to make sure each of them worked. Then, I had to test the sensor. I researched a code from Arduino and uploaded it into my Arduino Micro, which is running this project, that told the sensor to print out the distance to an object in front of it, so I could make sure it was giving out accurate readings. After making sure all of the components worked, I wired them together and coded so that as the sensor got closer to something, the LED would blink faster, the vibrating motor would vibrate more often, and the buzzer buzzed more. I also implemented a switch system so that you could turn off the LED, buzzer, motor, or any combination of the three by breaking up that circuit, which makes it more customizable to the preference of the person wearing it. 
