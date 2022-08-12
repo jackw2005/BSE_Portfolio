@@ -1,5 +1,5 @@
 ﻿# Third Eye for the Blind
-Hi, my name is Jack, and this project is a Third Eye for the Blind. This is an arduino based project that is intended to help visually-impaired people by giving them a wearable device tell them how close they are to an object. It uses a buzzer and vibrating motor to do so, and either can be turned off with the flip of a switch for the wearer's preference
+Hi, my name is Jack, and this project is a Third Eye for the Blind. This is an arduino based project that is intended to help visually-impaired people by giving them a wearable device tell them how close they are to an object. It uses a buzzer and vibrating motor to do so, and either can be turned off with the flip of a switch for the wearer's preference.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
