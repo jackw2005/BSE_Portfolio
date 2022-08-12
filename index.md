@@ -14,7 +14,7 @@ Here is two pictures of my final project, including the modifications. Below thi
 
 ![Front Hand 2](IMG_2504.jpg)
 
-# Modifications
+# Modifications (+ Demo of working project)
 I made a few modifications after finishing this project, mostly related to making some casing for the electronics so they were less likely to be broken if they were hit. I first made casing out of cardboard, but then opted to build a new design out of legos for more durability. After some serious planning, I finished the casing for the perfboard and the sensor, and although it is a bit bulky, it serves its purpose as a good case. 
 
 [![Modifications][![Jack T. Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1660154431/video_to_markdown/images/youtube--wZWtLzGng4M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=wZWtLzGng4M "Jack T. Final Milestone")
