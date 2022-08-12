@@ -52,7 +52,7 @@ My first milestone was setting up all of the wiring and components through a bre
 
 | **Part** | **AMT** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino Micro | 1 | $24.90 | https://store-usa.arduino.cc/collections/boards/products/arduino-micro | 
+| [Arduino Micro](https://store-usa.arduino.cc/collections/boards/products/arduino-micro) | 1 | $24.90 | https://store-usa.arduino.cc/collections/boards/products/arduino-micro | 
 |:--:|:--:|:--:|:--:|
 | Red LED | 1 | $0.34 | https://www.digikey.com/en/products/detail/kingbright/WP7113ID/1747663?utm_adgroup=Optoelectronics&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Supplier_Kingbright_0754_Co-op&utm_term=&utm_content=Optoelectronics&gclid=Cj0KCQjw_7KXBhCoARIsAPdPTfirmhMYGFpurrasGfQAJDfrbpnGpv4lC40WOlxY_IlGINXmlCg
 |:--:|:--:|:--:|:--:|
